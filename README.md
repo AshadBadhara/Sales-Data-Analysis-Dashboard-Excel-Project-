@@ -48,6 +48,8 @@ This project focuses on analyzing retail sales data using Excel to identify tren
 - Top & bottom performing products
   
 ## Dashboard Image
+https://github.com/AshadBadhara/Sales-Data-Analysis-Dashboard-Excel-Project-/blob/main/Dashboard%20Image.png
+
 
 
 ## 🚀 Outcome
