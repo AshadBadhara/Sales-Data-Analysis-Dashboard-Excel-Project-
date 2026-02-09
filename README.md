@@ -18,10 +18,10 @@ Developed a business-ready sales performance dashboard using Excel by analyzing 
 
 ## Key Insights:
 
-Certain sub-categories contribute high sales but low/negative profit, indicating pricing or cost issues.
-A few states dominate total sales and profit, highlighting key regional markets.
-Some products consistently generate losses and may require discount strategy review or discontinuation.
-Office Supplies category has high order volume but comparatively lower profit margins than Technology/Furniture.
+- Certain sub-categories contribute high sales but low/negative profit, indicating pricing or cost issues.
+- A few states dominate total sales and profit, highlighting key regional markets.
+- Some products consistently generate losses and may require discount strategy review or discontinuation.
+- Office Supplies category has high order volume but comparatively lower profit margins than Technology/Furniture.
 
 ## 📌 Project Overview
 
@@ -29,29 +29,31 @@ This project focuses on analyzing retail sales data using Excel to identify tren
 
 ## 🧰 Tools & Skills Used
 
-Excel (Pivot Tables, Charts, Dashboarding)
-Data Cleaning & Preparation
-KPI Analysis
-Data Visualization
-Business Analysis
+- Excel (Pivot Tables, Charts, Dashboarding)
+- Data Cleaning & Preparation
+- KPI Analysis
+- Data Visualization
+- Business Analysis
 
 ## 📊 Dataset
 
-Rows: ~9,994
-Columns: Order Date, Customer Name, State, Category, Sub-Category, Product Name, Sales, Quantity, Profit
+- Rows: ~9,994
+- Columns: Order Date, Customer Name, State, Category, Sub-Category, Product Name, Sales, Quantity, Profit
 
 ## 📈 Dashboard Features
 
-Total Sales, Profit & Quantity KPIs
-Category-wise & Sub-category-wise performance
-State-wise sales distribution
-Top & bottom performing products
+- Total Sales, Profit & Quantity KPIs
+- Category-wise & Sub-category-wise performance
+- State-wise sales distribution
+- Top & bottom performing products
+  
+## Dashboard Image
+
 
 ## 🚀 Outcome
 
 This project helped in understanding sales performance, identifying loss-making products, and highlighting high-performing regions to support strategic business decisions.
-
-## Dashboard Image 
+ 
 
 
 
