@@ -5,16 +5,16 @@ Developed a business-ready sales performance dashboard using Excel by analyzing 
 <a href ="https://github.com/AshadBadhara/Sales-Data-Analysis-Dashboard-Excel-Project-/blob/main/salesdata%20dataset%20-%20Copy.csv">Dataset</a>
 
 ## ✅ Business Questions (KPIs)
-1 Identify which product categories generate the highest sales and profit
-2 Identify which sub-categories are the most profitable and which underperform
-3 Determine which states contribute the most to total revenue and profit
-4 Find top-performing products based on sales and profit
-5 Detect loss-making products that negatively impact overall profitability
-6 Compare sales performance across categories and regions (states)
-7 Analyze which states have high sales but low profit margins
-8 Evaluate which products have high sales volume but low/negative profit
-9 Understand how sales, quantity, and profit are related
-10 Identify which categories and sub-categories drive the majority of order quantity
+- Identify which product categories generate the highest sales and profit
+- Identify which sub-categories are the most profitable and which underperform
+- Determine which states contribute the most to total revenue and profit
+- Find top-performing products based on sales and profit
+- Detect loss-making products that negatively impact overall profitability
+- Compare sales performance across categories and regions (states)
+- Analyze which states have high sales but low profit margins
+- Evaluate which products have high sales volume but low/negative profit
+- Understand how sales, quantity, and profit are related
+- Identify which categories and sub-categories drive the majority of order quantity
 
 ## Key Insights:
 
