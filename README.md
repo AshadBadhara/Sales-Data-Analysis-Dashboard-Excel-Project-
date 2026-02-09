@@ -54,11 +54,6 @@ https://github.com/AshadBadhara/Sales-Data-Analysis-Dashboard-Excel-Project-/blo
 
 ## 🚀 Outcome
 
-This project helped in understanding sales performance, identifying loss-making products, and highlighting high-performing regions to support strategic business decisions.
- 
-
-
-
-
-Profitability does not always increase with sales volume, showing the importance of margin analysis.
+- This project helped in understanding sales performance, identifying loss-making products, and highlighting high-performing regions to support strategic business decisions.
+- Profitability does not always increase with sales volume, showing the importance of margin analysis.
 
